@@ -38,8 +38,8 @@ button { color: inherit; }
 .navbar { height: 100%; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
 .brand { display: inline-flex; align-items: center; gap: 11px; flex: 0 0 auto; }
 .brand-mark { display: grid; place-items: center; width: 39px; height: 39px; color: var(--ink); background: var(--accent); font-family: var(--heading); font-size: 13px; font-weight: 800; letter-spacing: -.08em; }
-.brand-name { color: var(--ink); font-family: var(--heading); font-size: 15px; font-weight: 700; line-height: 1.2; letter-spacing: -.045em; }
-.brand-name span { display: block; font-family: var(--body); font-size: 9px; font-weight: 600; letter-spacing: .17em; text-transform: uppercase; }
+.brand-name { color: var(--ink); font-family: var(--heading); font-size: 18px; font-weight: 700; line-height: 1.15; letter-spacing: -.045em; }
+.brand-name span { display: block; font-family: var(--body); font-size: 10px; font-weight: 600; letter-spacing: .17em; text-transform: uppercase; }
 .nav-menu { display: flex; align-items: center; gap: clamp(16px, 2vw, 30px); }
 .nav-menu > a:not(.nav-cta) { min-height: 44px; display: inline-flex; align-items: center; color: #444b57; font-size: 12px; font-weight: 600; transition: color .2s ease; }
 .nav-menu > a:not(.nav-cta):hover, .nav-menu > a[aria-current="location"] { color: var(--accent-deep); }
@@ -322,7 +322,8 @@ h2 { font-size: clamp(2.1rem, 4.7vw, 4.1rem); }
   .container { width: calc(100% - 38px); }
   .brand { gap: 9px; }
   .brand-mark { width: 36px; height: 36px; }
-  .brand-name { font-size: 14px; }
+  .brand-name { font-size: 16px; }
+  .brand-name span { font-size: 9px; }
   .hero { min-height: clamp(500px, calc(100svh - var(--nav-height)), 600px); align-items: flex-start; }
   .hero-slide img { object-position: 62% center; }
   .hero-shade { background: linear-gradient(90deg, rgba(250,249,246,.86) 0%, rgba(250,249,246,.68) 58%, rgba(250,249,246,.28) 100%), linear-gradient(0deg, rgba(239,235,226,.2), transparent 46%); }
