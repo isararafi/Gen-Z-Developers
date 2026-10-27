@@ -37,7 +37,7 @@ The video section shows the featured 5 Marla home's full walkthrough and a separ
 ## Edit company details
 
 - Company name and tagline: update the text in `index.html` and the page title / description in the `<head>`.
-- WhatsApp: business inquiries go to `+92 336 556 3274`; property inquiries go to `+92 341 585 1658`. Update the `wa.me` links in `index.html` if the numbers change.
+- WhatsApp: both business and property inquiries go to `+92 336 556 3274`. Update the `wa.me` links in `index.html` if the number changes.
 - Address and map: update `Bahria Town Phase 8, Rawalpindi` in `index.html` and set the map iframe URL to the office location.
 - Services and design feedback: edit the corresponding sections in `index.html`.
 - Colors and typography: edit the CSS variables near the top of `css/style.css`.
