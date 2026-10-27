@@ -154,43 +154,40 @@
     {
       src: "images/pic5.jpeg",
       category: "Ceiling",
-      title: "Ceiling design",
-      alt: "Ceiling design in the featured 5 Marla home.",
-      description: "A view of the finished ceiling design.",
-      isPhotoSlot: true,
+      title: "Cove-lit ceiling design",
+      alt: "Living room ceiling with warm cove lighting, recessed spotlights and two ceiling fans.",
+      description:
+        "Cove lighting and recessed details bring warmth to the living room ceiling.",
     },
     {
       src: "images/pic6.jpeg",
       category: "Ceiling",
-      title: "Feature ceiling design",
-      alt: "Decorative feature ceiling in the featured 5 Marla home.",
-      description:
-        "A second ceiling view showing the decorative feature finish.",
-      isPhotoSlot: true,
+      title: "Skylight feature ceiling",
+      alt: "Geometric ceiling feature framing a skylight with recessed lights and a ceiling fan.",
+      description: "A geometric ceiling detail frames the skylight above.",
     },
     {
       src: "images/pic7.jpeg",
       category: "TV Lounge",
-      title: "TV lounge",
-      alt: "TV lounge in the featured 5 Marla home.",
-      description: "The family TV lounge and its interior finishes.",
-      isPhotoSlot: true,
+      title: "TV lounge feature wall",
+      alt: "TV lounge feature wall with dark wood cabinetry, vertical panels and patterned tile.",
+      description:
+        "Wood cabinetry and patterned tile create a focal wall for the TV lounge.",
     },
     {
       src: "images/pic8.jpeg",
       category: "Car Porch",
       title: "Car porch wall design",
-      alt: "Car porch wall design at the featured 5 Marla home.",
-      description: "A closer view of the car porch wall and its finish.",
-      isPhotoSlot: true,
+      alt: "Feature wall with wood-look panels, patterned stone tiles and green planting panels.",
+      description:
+        "A textured wall finish combines wood-look panels, tile and greenery.",
     },
     {
       src: "images/pic9.jpeg",
       category: "Exterior",
       title: "Side view of the house",
-      alt: "Side elevation of the featured 5 Marla home.",
-      description: "A side view of the house exterior.",
-      isPhotoSlot: true,
+      alt: "Side exterior view of a modern home with an upper balcony, wide windows and a boundary wall.",
+      description: "A side view of the home and its front boundary.",
     },
   ];
 

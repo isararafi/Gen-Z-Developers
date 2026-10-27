@@ -8,7 +8,7 @@ Open `index.html` in a modern browser. Google Fonts and the embedded map need an
 
 ## Featured 5 Marla project gallery
 
-The Projects section now focuses on one 5 Marla home in Bahria Town Phase 8. It includes the supplied exterior, kitchen and bathroom photos, plus five clearly marked slots for the ceiling, feature ceiling, TV lounge, car porch wall and side elevation. The gallery supports around 30 or more photos, category filters and a full-size lightbox with next and previous controls.
+The Projects section now focuses on one 5 Marla home in Bahria Town Phase 8. Its nine supplied photos cover the exterior, kitchen, bathroom, ceiling designs, TV lounge and car porch wall. The gallery supports around 30 or more photos, category filters and a full-size lightbox with next and previous controls.
 
 ### Add another project photo
 
@@ -26,7 +26,7 @@ The Projects section now focuses on one 5 Marla home in Bahria Town Phase 8. It 
 },
 ```
 
-4. Use a clear, descriptive `alt` value for accessibility. Use an existing category (`Exterior`, `Kitchen`, or `Bathroom`) or create a new one such as `Bedroom`, `Living room`, or `Details`. The filter button and photo count are generated automatically from the list.
+4. Use a clear, descriptive `alt` value for accessibility. Use an existing category (`Exterior`, `Kitchen`, `Bathroom`, `Ceiling`, `TV Lounge`, or `Car Porch`) or create a new one such as `Bedroom`, `Living room`, or `Details`. The filter button and photo count are generated automatically from the list.
 
 Photos use lazy loading and `object-fit: cover`. Keep originals in the `images/` folder and reference them with relative paths such as `images/5-marla-bedroom-01.jpg`. Do not use a local computer path.
 
@@ -42,14 +42,4 @@ The video section shows the featured 5 Marla home's full walkthrough and a separ
 - Services and design feedback: edit the corresponding sections in `index.html`.
 - Colors and typography: edit the CSS variables near the top of `css/style.css`.
 
-The gallery photos and company details should be confirmed before publishing.### Ready-made photo slots
-
-The Projects gallery has five named slots for your next photos. Save the images in the images folder using these filenames, then refresh the page. Each matching slot will automatically turn into a photo:
-
-- 5-marla-ceiling-01.jpg - ceiling design
-- 5-marla-ceiling-02.jpg - second / feature ceiling
-- 5-marla-tv-lounge.jpg - TV lounge
-- 5-marla-car-porch-wall.jpg - car porch wall design
-- 5-marla-side-elevation.jpg - side view of the house
-
-The gallery categories now include Exterior, Kitchen, Bathroom, Ceiling, TV Lounge, and Car Porch.
+The gallery photos and company details should be confirmed before publishing.
