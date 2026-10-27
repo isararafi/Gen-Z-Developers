@@ -383,7 +383,20 @@
       const expand = document.createElement("span");
       expand.className = "image-expand";
       expand.setAttribute("aria-hidden", "true");
-      expand.textContent = "↗";
+      const expandIcon = document.createElementNS(
+        "http://www.w3.org/2000/svg",
+        "svg",
+      );
+      expandIcon.setAttribute("class", "expand-arrow");
+      expandIcon.setAttribute("viewBox", "0 0 16 16");
+      expandIcon.setAttribute("focusable", "false");
+      const expandPath = document.createElementNS(
+        "http://www.w3.org/2000/svg",
+        "path",
+      );
+      expandPath.setAttribute("d", "M4 12 12 4M5 4h7v7");
+      expandIcon.append(expandPath);
+      expand.append(expandIcon);
       trigger.append(expand);
 
       const caption = document.createElement("span");
