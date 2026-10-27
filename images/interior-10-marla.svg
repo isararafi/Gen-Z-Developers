@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img">
+  <title>10 Marla drawing room video poster placeholder</title>
+  <desc>Illustration of a spacious modern drawing room with a tall window, neutral furnishings, a feature wall and greenery. Replace with an interior video poster when available.</desc>
+  <defs>
+    <linearGradient id="wall" x2="0" y2="1"><stop stop-color="#e5e4de"/><stop offset="1" stop-color="#c9c9c1"/></linearGradient>
+    <linearGradient id="window" x2="0" y2="1"><stop stop-color="#b8cbd0"/><stop offset="1" stop-color="#e0e5dc"/></linearGradient>
+    <linearGradient id="floor" x2="0" y2="1"><stop stop-color="#a97d5b"/><stop offset="1" stop-color="#795842"/></linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#wall)"/><path d="M0 420h960v180H0z" fill="url(#floor)"/>
+  <path d="M75 82h296v280H75z" fill="#f3f0e8"/><path d="M91 99h264v247H91z" fill="url(#window)"/><path d="M223 99v247M91 220h264" stroke="#eee9df" stroke-width="13"/>
+  <path d="M91 270c44-48 74-52 123-3 44-53 90-59 141 7v72H91z" fill="#82927e" opacity=".8"/><path d="M91 306c49-29 95-21 132 13 40-36 86-39 132-12v39H91z" fill="#697f78" opacity=".8"/>
+  <path d="M411 87h420v276H411z" fill="#d2c9b6"/><path d="M429 104h383v238H429z" fill="#dad2c3"/><path d="M451 127h340v12H451zM451 149h340v7H451zM451 165h340v7H451zM451 181h340v7H451zM451 197h340v7H451z" fill="#9b8669" opacity=".78"/>
+  <rect x="562" y="231" width="130" height="105" fill="#f2e8d8"/><rect x="575" y="244" width="104" height="79" fill="#879994"/><path d="M583 310l32-40 25 21 18-15 21 34z" fill="#647b76"/>
+  <rect x="189" y="391" width="597" height="127" rx="25" fill="#b7afa0"/><rect x="224" y="367" width="229" height="105" rx="25" fill="#c8c2b5"/><rect x="463" y="367" width="281" height="105" rx="25" fill="#c8c2b5"/><rect x="220" y="461" width="520" height="58" rx="15" fill="#aca28f"/>
+  <rect x="252" y="386" width="75" height="59" rx="11" fill="#77857d"/><rect x="341" y="386" width="75" height="59" rx="11" fill="#b28e69"/><rect x="501" y="386" width="78" height="59" rx="11" fill="#8d998f"/><rect x="592" y="386" width="78" height="59" rx="11" fill="#bd9c77"/>
+  <path d="M257 518v45M704 518v45" stroke="#684a34" stroke-width="12"/><ellipse cx="483" cy="548" rx="203" ry="24" fill="#3c2d25" opacity=".18"/>
+  <path d="M331 523h318l-35 47H362z" fill="#9e805f"/><rect x="355" y="520" width="270" height="17" fill="#e0d3be"/><path d="M378 539v29M604 539v29" stroke="#604631" stroke-width="7"/>
+  <path d="M822 402h71v18h-71zM836 402V270h43v132" fill="#8e755b"/><path d="M805 271c-22-37-14-69 2-92 8 38 28 46 43 56 3-48 36-70 66-68-18 34-9 59 7 80-24-4-40 5-45 24z" fill="#668167"/><path d="M846 270c-9-33-2-59 8-78M842 262c-17-24-33-37-49-45M857 259c15-20 32-34 52-42" fill="none" stroke="#486a4d" stroke-width="5"/>
+  <rect width="960" height="600" fill="none" stroke="#fff" stroke-opacity=".45" stroke-width="4"/>
+</svg>

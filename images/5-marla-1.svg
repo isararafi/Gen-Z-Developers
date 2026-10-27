@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 720" role="img">
+  <title>Original Pakistani home illustration placeholder</title>
+  <desc>Modern two-storey home elevation with a flat parapet roof, boundary wall, front gate and covered car porch. Replace this illustration with a licensed project photo when available.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#c8d3d1"/><stop offset="1" stop-color="#ead9b7"/></linearGradient>
+    <linearGradient id="wall" x2="0" y2="1"><stop stop-color="#d7ccba"/><stop offset="1" stop-color="#bcb5a9"/></linearGradient>
+    <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#304b5b"/><stop offset="1" stop-color="#172531"/></linearGradient>
+    <pattern id="pavers" width="54" height="28" patternUnits="userSpaceOnUse"><path d="M0 27.5h54M27 0v14M0 14h54M13.5 14v14M40.5 14v14" fill="none" stroke="#9d998d" stroke-opacity=".22" stroke-width="1"/></pattern>
+    <pattern id="gate" width="17" height="10" patternUnits="userSpaceOnUse"><path d="M3 0v10M10 0v10" stroke="#ddd1bd" stroke-opacity=".7" stroke-width="2"/></pattern>
+  </defs>
+  <rect width="1100" height="720" fill="url(#sky)"/>
+  <circle cx="865" cy="128" r="53" fill="#f8e5bb" opacity=".7"/>
+  <path d="M0 405c144-41 230-22 359 2 131 24 250 25 385-2 125-25 221-10 356 15v157H0Z" fill="#8a967e" opacity=".32"/>
+  <path d="M0 465c119-40 224-22 352 5 137 29 276 24 416-12 117-30 224-17 332 10v115H0Z" fill="#b5b5a3" opacity=".42"/>
+  <g fill="#71886f" opacity=".72">
+    <path d="M83 490h30V325H83z"/><circle cx="98" cy="300" r="70"/><circle cx="54" cy="338" r="47"/><circle cx="139" cy="350" r="50"/>
+    <path d="M969 493h25V340h-25z"/><circle cx="982" cy="315" r="61"/><circle cx="945" cy="346" r="40"/><circle cx="1022" cy="352" r="43"/>
+  </g>
+  <g fill="#f8f5ed" opacity=".6">
+    <path d="M184 96c8-22 44-24 54-4 21-3 32 22 18 37h-67c-19-8-19-24-5-33ZM694 75c7-17 35-18 43-3 17-2 25 18 14 29h-54c-15-7-15-18-3-26Z"/>
+  </g>
+  <rect y="564" width="1100" height="156" fill="#b2ab9b"/>
+  <rect y="578" width="1100" height="142" fill="url(#pavers)" opacity=".74"/>
+  <path d="M0 578h1100" stroke="#f0ebe1" stroke-opacity=".7" stroke-width="5"/>
+  <!-- Main home massing: flat roof and parapet inspired by contemporary Pakistani residential elevations. -->
+  <path d="M255 330h596v231H255z" fill="url(#wall)"/>
+  <path d="M314 145h472v221H314z" fill="url(#wall)"/>
+  <path d="M298 128h506v23H298z" fill="#b48450"/>
+  <path d="M320 151h460v16H320z" fill="#f5eee0" opacity=".85"/>
+  <path d="M242 329h623v17H242z" fill="#b48450"/>
+  <path d="M326 171h446v11H326zM326 188h446v6H326z" fill="#f5eee0" opacity=".46"/>
+  <!-- Facade feature treatment varies for each concept illustration. -->
+  <path d="M330 155h18v168h-18zM354 155h7v168h-7zM378 155h7v168h-7z" fill="__ACCENT__" opacity=".75"/><path d="M610 150h154v12H610z" fill="__TRIM__"/>
+  <!-- Upper floor windows and balcony -->
+  <rect x="384" y="218" width="124" height="91" fill="url(#glass)"/>
+  <path d="M446 218v91M384 261h124" stroke="#f5eee0" stroke-opacity=".8" stroke-width="5"/>
+  <rect x="589" y="218" width="124" height="91" fill="url(#glass)"/>
+  <path d="M651 218v91M589 261h124" stroke="#f5eee0" stroke-opacity=".8" stroke-width="5"/>
+  <path d="M370 316h356" stroke="#b48450" stroke-width="12"/>
+  <path d="M382 322v27M417 322v27M452 322v27M487 322v27M522 322v27M557 322v27M592 322v27M627 322v27M662 322v27M697 322v27" stroke="#f5eee0" stroke-width="3" opacity=".85"/>
+  <path d="M369 349h359" stroke="#b48450" stroke-width="5"/>
+  <!-- Ground-floor glazing, entrance and covered car porch -->
+  <rect x="329" y="384" width="92" height="87" fill="url(#glass)"/>
+  <path d="M375 384v87M329 426h92" stroke="#f5eee0" stroke-opacity=".75" stroke-width="4"/>
+  <rect x="469" y="389" width="73" height="172" fill="#493c35"/>
+  <path d="M480 401h49v51h-49z" fill="#f5eee0" opacity=".24"/>
+  <circle cx="529" cy="478" r="3" fill="#b48450"/>
+  <rect x="660" y="373" width="166" height="188" fill="#7c786e"/>
+  <path d="M660 373h166v13H660zM677 386v175M810 386v175" stroke="#f5eee0" stroke-width="6" opacity=".76"/>
+  <path d="M696 404h93v98h-93z" fill="url(#glass)"/>
+  <path d="M742 404v98M696 452h93" stroke="#f5eee0" stroke-width="4" opacity=".8"/>
+  <!-- Front boundary wall, gates and planter beds -->
+  <path d="M110 476h204v96H110zM463 486h284v86H463zM914 476h86v96h-86z" fill="url(#wall)"/>
+  <path d="M110 476h204v13H110zM463 486h284v13H463zM914 476h86v13h-86z" fill="#f5eee0"/>
+  <rect x="316" y="477" width="153" height="95" fill="#555148"/>
+  <rect x="316" y="477" width="153" height="95" fill="url(#gate)"/>
+  <path d="M392 477v95M316 525h153" stroke="#d8c9b1" stroke-opacity=".55" stroke-width="2"/>
+  <rect x="747" y="477" width="167" height="95" fill="#4e4b43"/>
+  <rect x="747" y="477" width="167" height="95" fill="url(#gate)"/>
+  <path d="M830 477v95M747 525h167" stroke="#d8c9b1" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M96 572h925" stroke="#706e64" stroke-width="7"/>
+  <g fill="#617653">
+    <path d="M125 548h25l-7-44h-11zM151 549h21l-6-34h-10zM491 563h25l-8-43h-10zM523 563h18l-5-34h-9zM929 547h23l-7-41h-10z"/>
+  </g>
+  <g fill="#d5bc7d"><circle cx="137" cy="510" r="5"/><circle cx="161" cy="521" r="4"/><circle cx="503" cy="523" r="5"/><circle cx="941" cy="512" r="5"/></g>
+  <!-- Subtle driveway and welcoming light -->
+  <path d="M392 573 342 720h287L392 573Z" fill="#d2c7b2" opacity=".48"/>
+  <path d="M395 583 372 720M425 590l29 130" stroke="#f6efe1" stroke-opacity=".46" stroke-width="3"/>
+  <circle cx="455" cy="369" r="5" fill="#f2c75e"/>
+  <circle cx="605" cy="365" r="5" fill="#f2c75e"/>
+  <rect width="1100" height="720" fill="none" stroke="#fff" stroke-opacity=".3" stroke-width="4"/>
+</svg>

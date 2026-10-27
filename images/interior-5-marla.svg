@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img">
+  <title>5 Marla lounge interior video poster placeholder</title>
+  <desc>Illustration of a bright Pakistani family lounge with a large window, a sofa, warm wood finishes and indoor plants. Replace with an interior video poster when available.</desc>
+  <defs>
+    <linearGradient id="wall" x2="0" y2="1"><stop stop-color="#eee8db"/><stop offset="1" stop-color="#d8d0c2"/></linearGradient>
+    <linearGradient id="window" x2="0" y2="1"><stop stop-color="#bed1d0"/><stop offset="1" stop-color="#dbe1d8"/></linearGradient>
+    <linearGradient id="floor" x2="0" y2="1"><stop stop-color="#b98c63"/><stop offset="1" stop-color="#8c664c"/></linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#wall)"/><path d="M0 418h960v182H0z" fill="url(#floor)"/>
+  <path d="M93 92h267v247H93z" fill="#faf7ee"/><path d="M108 108h237v211H108z" fill="url(#window)"/><path d="M225 108v211M108 213h237" stroke="#f5f0e7" stroke-width="12"/>
+  <path d="M108 260c47-58 79-48 117-10 35-48 78-51 120 4v65H108z" fill="#879982" opacity=".72"/><path d="M108 294c48-32 91-21 130 12 31-30 66-31 107-5v18H108z" fill="#78908a" opacity=".78"/>
+  <path d="M390 113h450v19H390zM419 141h393v8H419z" fill="#b28d60"/><rect x="549" y="94" width="130" height="15" rx="7" fill="#f6d899" opacity=".75"/>
+  <rect x="504" y="172" width="188" height="136" fill="#d4c5ac"/><rect x="516" y="184" width="164" height="112" fill="#aab7ae"/><path d="M526 283l56-66 35 33 27-22 24 55z" fill="#79887a"/><circle cx="629" cy="208" r="12" fill="#ead7a9"/>
+  <path d="M125 339h217v14H125z" fill="#f7f3e9"/><rect x="144" y="352" width="15" height="60" fill="#8c6c51"/><rect x="307" y="352" width="15" height="60" fill="#8c6c51"/>
+  <rect x="221" y="389" width="508" height="126" rx="24" fill="#d4c0a5"/><rect x="250" y="369" width="204" height="97" rx="24" fill="#d8c8b2"/><rect x="462" y="369" width="220" height="97" rx="24" fill="#d8c8b2"/><rect x="247" y="460" width="425" height="57" rx="14" fill="#b99b77"/>
+  <rect x="273" y="388" width="64" height="55" rx="10" fill="#879388"/><rect x="347" y="388" width="64" height="55" rx="10" fill="#a98465"/><rect x="500" y="388" width="65" height="55" rx="10" fill="#8d9b91"/><rect x="574" y="388" width="65" height="55" rx="10" fill="#c2a27e"/>
+  <path d="M323 513v49M633 513v49" stroke="#6b4d38" stroke-width="11"/>
+  <ellipse cx="475" cy="544" rx="195" ry="25" fill="#44352c" opacity=".16"/><path d="M323 521h302l-28 49H352z" fill="#bea27e"/><rect x="344" y="519" width="260" height="16" fill="#e8d9bd"/><path d="M361 538v24M588 538v24" stroke="#73563e" stroke-width="6"/>
+  <path d="M776 398h76v18h-76z" fill="#9d7650"/><path d="M789 398V248h50v150" fill="#b98b5e"/><path d="M800 248h29v124h-29z" fill="#d9c7a9"/>
+  <path d="M792 246c-50-20-41-70-11-83-5 34 11 46 27 56-10-48 22-70 51-73-17 36-10 57 9 79-24-4-36 4-42 21z" fill="#658164"/><path d="M816 246c-22-37-14-69 2-92M807 239c-8-28-21-46-34-56M827 237c10-29 23-48 37-62" fill="none" stroke="#47654a" stroke-width="5"/>
+  <rect width="960" height="600" fill="none" stroke="#fff" stroke-opacity=".45" stroke-width="4"/>
+</svg>
